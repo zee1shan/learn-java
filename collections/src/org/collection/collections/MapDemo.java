@@ -43,5 +43,19 @@ public class MapDemo {
         System.out.println(studentIntegerMap.get(s1));
         System.out.println(studentIntegerMap.get(s3));
 
+        // first occurance of number
+
+
+//        int []arr= {1, 5, 3, 4, 3, 5, 6};
+//       Map<Integer,Integer> integerMap=new HashMap<>();
+//
+//        for (int i = 0; i < arr.length; i++) {
+//            if(integerMap.containsKey(arr[i])){
+//                return integerMap.get(i)+1;
+//            }
+//            integerMap.put(arr[i],i);
+//
+//        }
+//        return -1
     }
 }
